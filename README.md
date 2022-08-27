@@ -1,4 +1,4 @@
-# .github
+# About us
 
 ![Talk2Doc logo](https://imagedelivery.net/IEVmOmAlrv1BxorgilY5Og/be001afb-5069-42c9-ecaa-bb1e1e70b700/public "Talk2Doc")
 
