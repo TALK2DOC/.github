@@ -72,6 +72,6 @@ We use microservices architecture:
 | Admin Panel  | `'Angular'`                                      |
 | Doctor Panel | `'Angular','Socket.io', 'WebRTC'`                |
 
-## Contact for question or to get access to the code
+## For any queries or to get access to the code get in touch with me.
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Shihab_munna) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://bd.linkedin.com/in/shihab-uddin-munna/) [![Github Badge](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=Github&logoColor=white&color=1CA2F1)](https://github.com/Shihab-Munna) [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=Facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/munna.bhagalpur)
